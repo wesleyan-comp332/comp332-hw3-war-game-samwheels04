@@ -1,0 +1,12 @@
+Bonus explanation:
+To run multiple games at the same time, 
+I used multi-threading with ThreadPoolExecutor to run each game session independently. 
+This allows for game execution for client pairs without blocking the server, 
+ensuring scalability and efficient resource utilization, 
+
+
+
+
+
+
+
